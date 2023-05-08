@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Kotlin and Android Projects
 - 🤔 I’m looking for help with new Technologies
 - 💻 Technologies: Android, Flutter, SpringBoot
-- 🌪 Language: Java, Kotlin, Python
+- 🌪 Language: Java, Kotlin, C++, Python
 - 📫 How to reach me: 
     Email: job.vishalrana@gmail.com
     Twitter: @ranathevishal
