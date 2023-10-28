@@ -1,7 +1,7 @@
 ### Ohh Dear, Vishal is Here... 👋
 
 - 🔭 I’m currently working on Jetpack Compose
-- 🌱 I’m currently learning AOSP (Android Open Source Platform)
+- 🌱 I’m currently learning AOSP (Android Open Source Platform) and iOS app development
 - 👯 I’m looking to collaborate on Kotlin and Android Projects
 - 🤔 I’m looking for help with new Technologies
 - 💻 Technologies: Android, Flutter, SpringBoot
